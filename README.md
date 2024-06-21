@@ -93,9 +93,10 @@ Este projeto é um aplicativo Android desenvolvido em Kotlin. Ele foi projetado 
 ## Integrantes
 
 - **Nome dos Desenvolvedores**:
-- Fillipe Tiago de Almeida Abdala. RA: 22250885;
-- Adria Vitoria Ferreira da Silva 
-
+- Fillipe Tiago de Almeida Abdala - RA: 22250885;
+- Luiz Eduardo Amaro da Silva - RA: 22252539
+- Ludimila lins de figueiredo Teles - RA: 22252262:
+- Adria Vitória Ferreira da Silva - RA: 22251510:
 
 
 
