@@ -1,7 +1,7 @@
 # GERENCIADOR DE VIAGENS PRIVADAS JETSETJOURNEYS
 ![JETSETJOURNEYS](https://github.com/filipeats/JetSetJourneyskotlin/assets/121572315/babd6482-61c6-4ef8-998a-ffeacf4ba335)
 ## Descrição
-Este projeto é um aplicativo Android desenvolvido em Kotlin. Ele foi projetado para gerenciar viagens privadas dos motoristas, permitindo-lhes adicionar novas viagens e acompanhar o total gasto hoje e no mês atual. A aplicação facilita o controle e a visualização das despesas relacionadas às viagens individuais, proporcionando uma experiência personalizada e intuitiva para os usuários gerenciarem seus registros de viagem de forma eficiente.
+Este projeto é um  aplicativo Android desenvolvido em Kotlin. Ele foi projetado para gerenciar viagens privadas dos motoristas, permitindo-lhes adicionar novas viagens e acompanhar o total gasto hoje e no mês atual. A aplicação facilita o controle e a visualização das despesas relacionadas às viagens individuais, proporcionando uma experiência personalizada e intuitiva para os usuários gerenciarem seus registros de viagem de forma eficiente.
 ## Funcionalidades
 1. **Tema Dinâmico**: O aplicativo suporta temas claro e escuro, adaptando-se ao tema do sistema através da função `isSystemInDarkTheme`.
 
